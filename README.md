@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Khajanchi (ANK002X)
+- 👋 Hi, I’m Aditya (Adi)
 - 👀 I’m interested in Data Analytics, Data Engineering, App Development, and I absolutely love diagnosing and problem solving
 - 🌱 I’m currently exploring Artificial Intelligence topics
 - 💞️ I’m looking to collaborate on Data Analysis projects, and/or projects to help the community
