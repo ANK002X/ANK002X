@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya (Adi)
 - 👀 I’m interested in Data Analytics, Data Engineering, and I absolutely love diagnosing and problem solving.
-- 🌱 Currently exploring Artificial Intelligence concepts
+- 🌱 Currently exploring my curiosity in Artificial Intelligence, Machine Learning, OCV
 - 💞️ Open to collaborate on Data Analysis projects, community upbringing projects 💪
 - 📫 Reach me on LinkedIn: [Aditya K](www.linkedin.com/in/adityakhajanchi)
 - 😄 Pronouns: He/Him
