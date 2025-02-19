@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Aditya (Adi)
-- 👀 I’m interested in Data Analytics, Data Engineering, App Development, and I absolutely love diagnosing and problem solving
-- 🌱 I’m currently exploring Artificial Intelligence topics
-- 💞️ I’m looking to collaborate on Data Analysis projects, and/or projects to help the community
+- 👀 I’m interested in Data Analytics, Data Engineering, and I absolutely love diagnosing and problem solving.
+- 🌱 I’m currently exploring Artificial Intelligence concepts
+- 💞️ Open to collaborate on Data Analysis projects, community upbringing projects 💪
 - 📫 Reach me on LinkedIn: [Aditya K](www.linkedin.com/in/adityakhajanchi)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Can solve a Rubik's cube under 2 mins
+- ⚡ Hobbies: Solving Puzzles(Cubes, Sudoku...), PC Building
+
 
 <!---
 ANK002X/ANK002X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
