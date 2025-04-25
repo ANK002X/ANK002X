@@ -2,7 +2,7 @@
 - 👀 **Passionate about** Data Analytics, Data Engineering, and solving complex problems.
 - 🌱 **Currently exploring** Artificial Intelligence, Machine Learning, and OpenCV.
 - 💞️ **Open to collaboration** on Data Analysis projects and community initiatives. 💪
-- 📫 **Reach me on LinkedIn:** [Aditya K](www.linkedin.com/in/adityakhajanchi)
+- 📫 **Reach me on LinkedIn:** [Aditya K](https://www.linkedin.com/in/adityakhajanchi)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Hobbies:** Solving puzzles (Cubes, Sudoku, etc.), PC building.
 
